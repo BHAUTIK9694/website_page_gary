@@ -178,3 +178,8 @@
     justify-content: center;
     margin-bottom: 50px;
 }
+
+video {
+    border: 2px solid #333;
+    margin-bottom: 20px;
+}
